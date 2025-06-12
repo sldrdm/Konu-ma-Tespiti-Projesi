@@ -39,14 +39,7 @@ Amaç; büyük metin kütlelerinde **otomatik etiketleme** ve **anlamlandırma**
 
 ---
 
-## 🖥️ Ekran Görüntüleri
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sldrdm/Konu-ma-Tespiti-Projesi/main/assets/screenshot1.png" width="45%" alt="Çalışma Ekranı"/>
-  <img src="https://raw.githubusercontent.com/sldrdm/Konu-ma-Tespiti-Projesi/main/assets/screenshot2.png" width="45%" alt="Konu Dağılımı"/>
-</p>
-
----
 
 ## ⚡️ Hızlı Başlangıç
 
